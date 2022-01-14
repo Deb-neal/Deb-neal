@@ -17,4 +17,4 @@ Socket.io를 바탕으로 라이브 스트리밍을 구현해본 경험이 있�
 ## INFORMATION
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dksaksen7@gmail.com)](mailto:dksaksen7@gmail.com)
-	
+  ![Notion Badge](https://img.shields.io/badge/notion-a3a5a1?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/ing-f3e5754f769e42f19f8735af7ae91c05)	
